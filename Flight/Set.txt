@@ -1,0 +1,12 @@
+"[Set]"
+"Plane"
+"A"
+"BLUE"
+"BLUE"
+1
+0
+"Aeric"
+1
+1
+1
+0
